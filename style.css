@@ -209,7 +209,7 @@ body {
 
 
 .home-page .banner {
-    background: url('/banner-img.png');
+    background: url('./banner-img.png');
     background-repeat: no-repeat;
     width: 100%;
     display: flex;
