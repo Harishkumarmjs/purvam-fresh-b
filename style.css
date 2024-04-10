@@ -117,6 +117,7 @@ body {
     border: 0px, 6px, 6px, 0px;
     justify-content: center;
     align-items: center;
+    padding: 10px;
     gap: 10px;
     font-family: Karla;
     font-size: 16px;
@@ -1289,7 +1290,7 @@ body {
     }
 
     .heard-tow .input button {
-        padding: 2px;
+        padding: 10px;
     }
 
     .firstpage .heard-tow {
@@ -1456,8 +1457,8 @@ body {
 
     .maske-page {
         padding-top: 60px;
-        padding-left: 16px;
-        padding-right: 16px;
+        padding-left: 40px;
+        padding-right: 40px;
         padding-bottom: 60px;
     }
 
