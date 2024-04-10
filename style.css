@@ -1820,6 +1820,10 @@ body {
         margin-top: 90px;
         border-radius: 5px;
     } */
+    .maske-page {
+        padding-right: 40px;
+        padding-left: 40px;
+    }
 }
 
 @media screen and (width < 375px) {
