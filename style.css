@@ -1792,8 +1792,6 @@ body {
 @media screen and (width < 399px) {
     .page-nine-main .page-nine-text .nine-page-first .input {
         display: flex;
-        flex-direction: column;
-        width: 100%;
 
     }
 
